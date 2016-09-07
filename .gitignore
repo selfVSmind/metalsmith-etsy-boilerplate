@@ -1,3 +1,6 @@
+# Metalsmith's output
+build/
+
 # Logs
 logs
 *.log

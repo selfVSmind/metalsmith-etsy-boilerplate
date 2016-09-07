@@ -1,0 +1,34 @@
+{
+  "name": "metalsmith-etsy-boilerplate",
+  "version": "1.0.0",
+  "description": "Essential boilerplate code to get you up and running with a custom Etsy website.",
+  "main": "build.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/selfVSmind/metalsmith-etsy-boilerplate.git"
+  },
+  "keywords": [
+    "metalsmith",
+    "etsy"
+  ],
+  "author": "Jason Lambert <pitbullent@gmail.com> (jasonlambert.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/selfVSmind/metalsmith-etsy-boilerplate/issues"
+  },
+  "homepage": "https://github.com/selfVSmind/metalsmith-etsy-boilerplate#readme",
+  "dependencies": {
+    "handlebars": "^4.0.5",
+    "metalsmith": "^2.2.0",
+    "metalsmith-collections": "^0.7.0",
+    "metalsmith-etsy": "^1.0.0",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-permalinks": "^0.5.0",
+    "metalsmith-templates": "^0.7.0"
+  }
+}

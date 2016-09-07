@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Custom Etsy Store</title>
+    </head>
+
+    <body>
+
+        <header>
+            My Custom Etsy Store Header
+        </header>
+
+        <div class="main-wrapper">
