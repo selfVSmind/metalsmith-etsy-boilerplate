@@ -7,7 +7,7 @@ Essential boilerplate code to get you up and running with a custom Etsy website.
     $ npm install
     
 ## Requirements
-You must [register for and Etsy API key] and enter that key in **build.js**.
+You must [register for and Etsy API key](https://www.etsy.com/developers/register) and enter that key in **build.js**.
 
 My Etsy shop name is filled in for demonstration purposes so keep that or change it to your own shop.
 
